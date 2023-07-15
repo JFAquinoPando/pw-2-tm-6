@@ -9,13 +9,6 @@ n = 52
 if(n == "pedro"):
     print("sdfsd")
 
-
-# Si la variable es igual a pedro, entonces imprime asdasd
-#n = input("cargar desde terminal o consola", sekjfhsdjkhf)
-#n = input("cargar desde terminal o consola")
-#n = input("cargar desde terminal o consola")
-#n = input("cargar desde terminal o consola")
-
 """
 Si la variable es igual a pedro, entonces imprime asdasd
 Si la variable
